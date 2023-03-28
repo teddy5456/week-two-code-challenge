@@ -1,3 +1,6 @@
+TEddy Wambua
+0740862046
+
 # Flatacuties
 
 Today you'll be building an app for voting for the cutest animal! You will be
